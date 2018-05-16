@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp76", "ConsoleApp76\ConsoleApp76.csproj", "{BDB583C3-E860-4D25-AE1B-C8A33AA07D84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{45A60939-6AEC-4704-BF4C-8D1E6DB31D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCars.Data", "PeopleCars.Data\PeopleCars.Data.csproj", "{78DA10F8-4F74-4196-A1BF-BE065546A2F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BDB583C3-E860-4D25-AE1B-C8A33AA07D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB583C3-E860-4D25-AE1B-C8A33AA07D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB583C3-E860-4D25-AE1B-C8A33AA07D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A60939-6AEC-4704-BF4C-8D1E6DB31D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A60939-6AEC-4704-BF4C-8D1E6DB31D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A60939-6AEC-4704-BF4C-8D1E6DB31D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A60939-6AEC-4704-BF4C-8D1E6DB31D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DA10F8-4F74-4196-A1BF-BE065546A2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA10F8-4F74-4196-A1BF-BE065546A2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA10F8-4F74-4196-A1BF-BE065546A2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA10F8-4F74-4196-A1BF-BE065546A2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
